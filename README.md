@@ -2005,7 +2005,7 @@ Signed,
 - Mark Ormesher ([@markormesher](https://github.com/markormesher)), Software Engineer, London
 - Aman Satnami ([@zzbazinga](https://github.com/zzbazinga)), Open Source enthusiast, Developer from India
 - Fábio C. Schmidt ([@fcschmidt](https://github.com/fcschmidt)), Student and Aspiring Scientific Researcher
-- James Ah Yong ([@RetroCraft](https://github.com/RetroCraft)), high school sophmore and hopeful web developer
+- James Ah Yong ([@RetroCraft](https://github.com/RetroCraft))e, high school sophmore and hopeful web developer
 - Muhibbudin Suretno ([@muhibbudins](https://github.com/muhibbudins)), UI/UX Designer & Frontend Developer, Jakarta, Indonesia
 - Shahjahan Jewel ([@techjewel](https://github.com/techjewel)), Software Engineer, Sylhet, Bangladesh
 - Baruch Velez ([@baruchvlz](https://github.com/baruchvlz)), FrontEnd Engineer @ [McMakler](https://github.com/mcmakler), Berlin, Germany
@@ -2031,3 +2031,4 @@ Signed,
 - Willem Labuschagne ([@willemlabu](https://github.com/willemlabu)), Developer
 - Mojca Rojko ([@xtrinch](https://github.com/xtrinch)), Programmer, Maribor, Slovenia
 - Sandeep Ranjan (Flame) ([@srsandy](https://github.com/srsandy)), Full Stack Web Developer, New Delhi, India
+- Ilya Lopukhin ([@architektor](https://github.com/Architektor)), Developer @ [web-pal](https://github.com/web-pal)
